@@ -38,7 +38,7 @@ public class CalculatorMain
             }
             System.out.println(num1 + " " + choice + " " + num2 + " = " + result);
 
-        System.out.println("Hellow");
+        System.out.println("Hello world");
         }
 
 
